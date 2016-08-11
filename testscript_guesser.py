@@ -14,6 +14,6 @@ def main():
 		else:
 			print ("GUESS HIGHER!")
 			TotNumberofGuesses = TotNumberofGuesses+1
-	print ("TOTAL NUMBER OF GUESSES:",TotNumberofGuesses)		
+	print ("THE TOTAL NUMBER OF GUESSES IT TOOK: ",TotNumberofGuesses)		
 	print ("THANK YOU FOR PLAYING THE GUESSING GAME")
 main()
